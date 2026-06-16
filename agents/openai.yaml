@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stock Shadow Research"
+  short_description: "Run Serenity + Prism stock shadow research from a ticker."
+  default_prompt: "Run stock shadow research for MU."
